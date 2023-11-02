@@ -1,4 +1,4 @@
-# Array Rotate
+# Array Rotate (Easy)
 
 This is an example C++ Array Rotate implementation
 
